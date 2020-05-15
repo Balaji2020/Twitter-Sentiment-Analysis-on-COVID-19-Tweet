@@ -1,0 +1,13 @@
+{
+ "tweeter_hashtag":"#COVID2019",
+"tweeter_handle":"@Novartis,@NovartisIndia,@NovartisNews,@WHO",
+ "No_of_tweet":"2000",
+"file_path":".\\tweet_files\\covid2019",
+"consumer_key": "",
+"consumer_secret": "", 
+"access_token": "", 
+"access_token_secret": "", 
+"tweet_start": "2020-04-07",
+"tweet_end": "2020-04-18",
+  "tweet_count": 200
+}
